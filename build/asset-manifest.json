@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.425c5bfc.js",
+    "static/js/787.1be0bf26.chunk.js": "/static/js/787.1be0bf26.chunk.js",
+    "static/media/fupa.jpg": "/static/media/fupa.e5b9b81055ee7c8165ba.jpg",
+    "static/media/vvs.jpg": "/static/media/vvs.19289d250bd9595eeb70.jpg",
+    "index.html": "/index.html",
+    "main.425c5bfc.js.map": "/static/js/main.425c5bfc.js.map",
+    "787.1be0bf26.chunk.js.map": "/static/js/787.1be0bf26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.425c5bfc.js"
+  ]
+}
